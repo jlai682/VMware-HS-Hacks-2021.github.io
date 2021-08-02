@@ -8,3 +8,4 @@
 How will it guess stress levels?
 * it will ask how streeful that person feels on a scale of 1 to 10 
 * a possible reward system for completing each exercise/event
+* Some sort of age filter so users can be part of a group of similar age (ie: kid events, adult events)

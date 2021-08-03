@@ -35,3 +35,5 @@ https://docs.google.com/presentation/d/1vFHekAwzCgNt5vs0ApBEITRsGHXh_QHSMAJopk_J
 2. Meghana Tirunagaru
 3. Prajesh Santhanakrishnan
 4. Eric Schneider (technical mentor)
+
+Most GitHub commits are done by Eric Schneider, but this only because work was done using [replit.com](https://replit.com).

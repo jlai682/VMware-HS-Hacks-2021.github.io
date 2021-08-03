@@ -13,14 +13,17 @@
   display: block;
 }
 
-
-
-
-
-
-{
-  box-sizing: border-box;
+/* background */
+body {
+  background-image: url("background.jpg");
 }
+
+
+
+
+/*{
+  box-sizing: border-box;
+}*/
 
 /* Style inputs */
 input[type=text], select, textarea {

@@ -1,4 +1,7 @@
 # VMware-HS-Hacks-2021.github.io
+Site [here](https://vmware-hs-hacks-2021.github.io).
+
+## Ideas
 In Order of Importance:
 * It should be able to show sport categories with several exercises or activities that can be used to relieve stress.
 * It needs to collect user information to guess potential events the user may have an interest in  

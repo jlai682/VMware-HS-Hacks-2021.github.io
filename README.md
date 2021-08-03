@@ -26,6 +26,8 @@ Running:
 * More experienced: a local 5k
 * Less experienced: 10-20 minute
 
+https://docs.google.com/presentation/d/1vFHekAwzCgNt5vs0ApBEITRsGHXh_QHSMAJopk_Ja50/edit?usp=sharing
+
 
 
 ## Authors
